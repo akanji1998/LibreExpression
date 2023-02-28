@@ -5,7 +5,7 @@ FROM akanjiabiola/app:latest
 WORKDIR /app
 
 # Copiez le fichier package.json dans le conteneur
-
+# comment
 
 
 # Copiez tous les fichiers de l'application dans le conteneur
