@@ -1,5 +1,5 @@
 # Utilisez une image de base légère avec Node.js préinstallé
-FROM akanjiabiola/app:latest
+FROM akanjiabiola/gitaction-repo:latest
 
 # Définissez le répertoire de travail dans le conteneur
 WORKDIR /app
